@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-April 26 2034
+April 26 2023
 
 # Privacy Policy
 Below you will find all information about the processing of your personal data by the eXpence app from David Lin (hereinafter referred to as ‘eXpence’ or ‘we’) and your data protection rights.
