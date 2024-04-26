@@ -5,56 +5,38 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+April 26 2034
 
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+Below you will find all information about the processing of your personal data by the eXpence app from David Lin (hereinafter referred to as ‘eXpence’ or ‘we’) and your data protection rights.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+**eXpence takes the protection of your personal information very seriously. Therefore, we generally do not collect any personal data and only limit ourselves to data that is absolutely necessary for the operation of the app.**
 
-<br>
+In principle, no personal data such as name, age, marital status, date of birth, address, telephone number or email of the respective user are collected. In order to use MoneyStats in its basic functions, no such personal data is necessary and no login or registration is required.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+eXpence only allows you to record your expenses and store them in this application. You can decide for yourself how detailed your entries are in this application. eXpence offers you input masks to make this possible and to manage, evaluate and illustrate the data. By default, the data is only saved on your device, i.e. where the application was installed. All the data you enter will be stored in a protected area on your device that cannot legally be viewed by third parties.
+<> Optionally, you can set up additional access barriers to this application (e.g. PIN protection, Touch ID, Face ID).
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+As soon as you purchase a paid additional service in eXpence, non-personal data will be stored. However, the Apple App Store manages all transactions and issues the invoices. eXpence only learns that a purchase or cancellation has taken place, but does not receive any personal information such as the invoice, the address or the buyer.
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+If you continue to take out a paid subscription, eXpence will receive further anonymized payment information such as the term and expiry date, which are absolutely necessary for the additional service. This anonymous data is also shared with our partner ‘RevenueCat’, who is responsible for managing the subscriptions. Your purchase history may also be evaluated to check whether your subscription is still valid, expired or canceled.
 
 <br>
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+## Contact for data privacy
+If you have any questions or problems regarding data protection, you can contact us at any time at the following email address: info.expence@gmail.com
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+The responsible body for data processing within the meaning of Article 4 No. 7 of the General Data Protection Regulation (GDPR) is:
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+**eXpence**
 
-<br>
+David Lin
+Gebhardweg 5
+81247 Munich
+info.expence@gmail.com
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+## Data storage
+The processed data will only be stored locally on the users device and thus will not be transferred to any server or third party.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
-
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
-
-<br>
-
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
-
-<br>
-
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## For further questions
+Please contact info.expence@gmail.com for further information and questions.
